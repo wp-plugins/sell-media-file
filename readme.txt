@@ -1,7 +1,7 @@
 === Sell Media File ===
 Contributors: naa986
 Donate link: http://noorsplugin.com/
-Tags: sell, embed, audio, music, media, commerce, digital downloads, download, downloads, e-commerce, paypal, photography, sell photos, sell videos, selling, animoto, Blip, Collegehumor, dailymotion, embed, flickr, funnyordie.com, hulu, imgur, instagram, issuu, meetup.com, mixcloud, photobucket, polldaddy, rdio, revision3, scribd, slideshare, SmugMug, soundcloud, spotify, TED, tv, twitter, video, vimeo, youtube
+Tags: sell, embed, audio, music, media, commerce, e-commerce, paypal, photography, sell photos, sell videos, selling, animoto, Blip, Collegehumor, dailymotion, embed, flickr, funnyordie.com, hulu, imgur, instagram, issuu, meetup.com, mixcloud, photobucket, polldaddy, rdio, revision3, scribd, slideshare, SmugMug, soundcloud, spotify, TED, tv, twitter, video, vimeo, youtube
 Requires at least: 3.0
 Tested up to: 4.0
 Stable tag: 1.0.1
@@ -28,38 +28,40 @@ Now, insert your embed shortcode like the following to create a buy button:
 
 `[embed smf_name="big buck bunny video"]http://www.youtube.com/watch?v=Vpg9yizPP_g[/embed]`
 
-= Supported Media =
+= Features =
+
+* Sell videos hosted on **Animoto**
+* Sell videos hosted on **Blip**
+* Sell videos hosted on **CollegeHumor**
+* Sell videos hosted on **DailyMotion**
+* sell images and videos hosted on **Flickr**
+* Sell videos hosted on **FunnyOrDie.com**
+* Sell videos hosted on **Hulu**
+* Sell images hosted on **Imgur**
+* Sell images hosted on **Instagram**
+* sell documents hosted on **Issuu**
+* Sell events hosted on **Meetup.com**
+* Sell articles hosted on **EmbedArticles**
+* Sell music hosted on **Mixcloud**
+* Sell images hosted on **Photobucket**
+* Sell quizzes and reports hosted on **PollDaddy**
+* Sell music hosted on **Rdio**
+* Sell tv show hosted on **Revision3**
+* Sell documents hosted on **Scribd**
+* Sell presentation slideshows hosted on **SlideShare**
+* Sell photos hosted on **SmugMug**
+* Sell music hosted on **SoundCloud**
+* Sell music hosted on **Spotify**
+* Sell videos hosted on **TED**
+* Sell **twitter** media
+* Sell videos hosted on **Vimeo**
+* Sell videos hosted on **WordPress.tv**
+* Sell videos hosted on **YouTube**
+* Sell articles hosted on **iSnare**
 
 It supports all the media files that can be embedded using the WordPress embed shortcode.
 
-* Animoto	
-* Blip	
-* CollegeHumor	
-* DailyMotion
-* Flickr
-* FunnyOrDie.com
-* Hulu
-* Imgur	
-* Instagram	
-* Issuu
-* Meetup.com
-* Mixcloud
-* Photobucket
-* PollDaddy	
-* Rdio	
-* Revision3	
-* Scribd	
-* SlideShare	
-* SmugMug	
-* SoundCloud
-* Spotify	
-* TED
-* Twitter	
-* Vimeo
-* WordPress.tv
-* YouTube
-
-For setup instructions please visit the [Sell Media File](http://noorsplugin.com/sell-media-file-plugin-for-wordpress/) plugin page
+For setup instructions please visit the [Sell Media File](http://noorsplugin.com/sell-media-file-plugin-for-wordpress/) plugin page.
 
 
 == Installation ==
