@@ -3,7 +3,7 @@ Contributors: naa986
 Donate link: http://noorsplugin.com/
 Tags: sell, embed, audio, music, media, commerce, e-commerce, paypal, photography, sell photos, sell videos, selling, animoto, Blip, Collegehumor, dailymotion, embed, flickr, funnyordie.com, hulu, imgur, instagram, issuu, meetup.com, mixcloud, photobucket, polldaddy, rdio, revision3, scribd, slideshare, SmugMug, soundcloud, spotify, TED, tv, twitter, video, vimeo, youtube
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -16,50 +16,13 @@ Sell Media File plugin extends the embed functionality of WordPress by allowing 
 
 = Plugin Setup =
 
-Once you have installed this plugin you need to go to the settings menu to configure some options (Settings -> Sell Media File).
+You need to configure some options after you have activated the plugin. It's located under "Settings -> Sell Media File". The options include your PayPal Email address, Currency etc.
 
-* PayPal Email: Your PayPal email address
-* Currency Code: The default currency code
-* Price Amount: The default price of each embedded media
-* Button Text/Image: The text/image for the Buy button
-* Return URL: The URL where a user will be redirected to after the payment
-
-Now, insert your embed shortcode like the following to create a buy button:
+To display a Buy button under the video the embed shortcode needs to be inserted like the following:
 
 `[embed smf_name="big buck bunny video"]http://www.youtube.com/watch?v=Vpg9yizPP_g[/embed]`
 
-= Features =
-
-* Sell videos hosted on **Animoto**
-* Sell videos hosted on **Blip**
-* Sell videos hosted on **CollegeHumor**
-* Sell videos hosted on **DailyMotion**
-* sell images and videos hosted on **Flickr**
-* Sell videos hosted on **FunnyOrDie.com**
-* Sell videos hosted on **Hulu**
-* Sell images hosted on **Imgur**
-* Sell images hosted on **Instagram**
-* sell documents hosted on **Issuu**
-* Sell events hosted on **Meetup.com**
-* Sell articles hosted on **EmbedArticles**
-* Sell music hosted on **Mixcloud**
-* Sell images hosted on **Photobucket**
-* Sell quizzes and reports hosted on **PollDaddy**
-* Sell music hosted on **Rdio**
-* Sell tv show hosted on **Revision3**
-* Sell documents hosted on **Scribd**
-* Sell presentation slideshows hosted on **SlideShare**
-* Sell photos hosted on **SmugMug**
-* Sell music hosted on **SoundCloud**
-* Sell music hosted on **Spotify**
-* Sell videos hosted on **TED**
-* Sell **twitter** media
-* Sell videos hosted on **Vimeo**
-* Sell videos hosted on **WordPress.tv**
-* Sell videos hosted on **YouTube**
-* Sell articles hosted on **iSnare**
-
-It supports all the media files that can be embedded using the WordPress embed shortcode.
+The plugin supports all the media files that can be embedded using the WordPress embed shortcode.
 
 For setup instructions please visit the [Sell Media File](http://noorsplugin.com/sell-media-file-plugin-for-wordpress/) plugin page.
 
