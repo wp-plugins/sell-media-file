@@ -26,6 +26,10 @@ The plugin supports all the media files that can be embedded using the WordPress
 
 For setup instructions please visit the [Sell Media File](http://noorsplugin.com/sell-media-file-plugin-for-wordpress/) plugin page.
 
+= Recommended Reading =
+
+* Sell Media File [Documentation](http://noorsplugin.com/sell-media-file-plugin-for-wordpress/)
+* My Other [Free WordPress Plugins](http://noorsplugin.com/wordpress-plugins/)
 
 == Installation ==
 
