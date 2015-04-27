@@ -3,7 +3,7 @@ Contributors: naa986
 Donate link: http://noorsplugin.com/
 Tags: sell, embed, audio, music, media, commerce, e-commerce, paypal, photography, sell photos, sell videos, selling, animoto, Blip, Collegehumor, dailymotion, embed, flickr, funnyordie.com, hulu, imgur, instagram, issuu, meetup.com, mixcloud, photobucket, polldaddy, rdio, revision3, scribd, slideshare, SmugMug, soundcloud, spotify, TED, tv, twitter, video, vimeo, youtube
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
