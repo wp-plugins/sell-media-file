@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Sell Media File
-Version: 1.0.1
+Version: 1.0.2
 Plugin URI: http://noorsplugin.com/sell-media-file-plugin-for-wordpress/
 Author: naa986
 Author URI: http://noorsplugin.com/
@@ -13,7 +13,7 @@ if(!class_exists('SELL_MEDIA_FILE'))
 {
     class SELL_MEDIA_FILE
     {
-        var $plugin_version = '1.0.1';
+        var $plugin_version = '1.0.2';
         var $plugin_url;
         var $plugin_path;
         function __construct()
